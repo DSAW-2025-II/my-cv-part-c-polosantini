@@ -1,4 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FoyjQ7s2)
+
+# Martín Polo Santini - 335656
+
+[Link](https://dsaw-2025-ii.github.io/my-cv-part-c-polosantini/) para ver la página desplegada en GitHub Pages
+
+## Juego de Flexbox Froggy completado:
+![alt text](<images/Flexbox Froggy - Desarrollo de Aplicaciones Web.png>)
+
+## Juego de Grid Garden completado:
+![alt text](<images/Grid Garden - Desarrollo de Aplicaciones Web.png>)
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
