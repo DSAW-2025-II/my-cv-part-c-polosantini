@@ -2,6 +2,8 @@
 
 # Martín Polo Santini - 335656
 
+[Link](https://dsaw-2025-ii.github.io/my-cv-part-c-polosantini/) de la página desplegada en GitHub Pages.
+
 ## Juego de Flexbox Froggy completado:
 ![alt text](<images/Flexbox Froggy - Desarrollo de Aplicaciones Web.png>)
 
